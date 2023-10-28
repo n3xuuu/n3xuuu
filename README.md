@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I’m N3xU!<br>👀 I’m interested in Level Design, Web Design and Programming.<br>🌱 I’m currently learning C#, Lua, Level Design and many more.<br>📫 How to reach me: n3xu. [DISCORD]
+👋 · Hi, I’m N3xU!<br>📂 · I’m interested in Level Design, Web Design and Programming.<br>🌎 I’m currently working on velobitty.dev<br>⏳ · I’m currently learning C#, Lua, Level Design and many more.<br>📞 · How to reach me: n3xu. [DISCORD]
 
 [![](https://visitcount.itsvg.in/api?id=n3xuuu&icon=2&color=12)](https://visitcount.itsvg.in)
 
