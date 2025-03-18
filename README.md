@@ -5,4 +5,4 @@
 - 👯 Looking to collaborate on FiveM Development Teams.
 - 📫 Reach me at `n3xu.` on Discord.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n3xuuu&" alt="n3xuuu" /></p>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=n3xuuu)](https://git.io/streak-stats)
