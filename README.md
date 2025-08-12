@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- 💼 Working for [ICED Romania](https://discord.gg/iced).
+- 💼 Working for [iced Romania](https://discord.gg/iced).
 - 🎓 Learning Web Development, Unreal Engine and more.
 - 👯 Looking to collaborate on FiveM Development Teams.
 - 📫 Reach me at `n3xu.` on Discord.
